@@ -3,6 +3,8 @@ module.exports = {
     description: 'Just playing around',
     themeConfig: {
         subSidebar: 'auto',
+        search: true,
+        searchMaxSuggestions: 10,
         nav: [
             { text: '首页', link: '/' },
             {
@@ -28,7 +30,7 @@ module.exports = {
               collapsable: false, // 不折叠
               children: [
                 { title: "什么是 ChatGPT", path: "/handbook/read01" },
-                { title: "ChatGP T中的 GPT 分别是什么意思", path: "/handbook/read02" }
+                { title: "ChatGPT中的 GPT 分别是什么意思", path: "/handbook/read02" }
               ],
             },
             {
