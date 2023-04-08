@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: https://i.328888.xyz/2023/04/08/i3tz9d.md.jpeg
 tagline:
 actionText: 快速开始 Quick Start →
 actionLink: /guide/
