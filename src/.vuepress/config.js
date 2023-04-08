@@ -1,11 +1,11 @@
 module.exports = {
-    title: 'ChatGPT中文导航大全',
+    title: 'ChatGPT中文导航网',
     description: 'Just playing around',
     themeConfig: {
         subSidebar: 'auto',
         nav: [
             { text: '首页', link: '/' },
-            { 
+            {
                 text: '联系作者', 
                 items: [
                     { text: 'Github', link: 'https://github.com/rongweihe' },
@@ -23,14 +23,22 @@ module.exports = {
                 ]
             },
             {
-              title: "基础学习",
+              title: "基础概念",
               path: '/handbook/read01',
               collapsable: false, // 不折叠
               children: [
-                { title: "条件类型", path: "/handbook/read01" },
-                { title: "泛型", path: "/handbook/read02" }
+                { title: "什么是 ChatGPT", path: "/handbook/read01" },
+                { title: "ChatGP T中的 GPT 分别是什么意思", path: "/handbook/read02" }
               ],
+            },
+            {
+                title: "人工智能相关知识",
+                path: 'handbook/what_is_en_decode',
+                collapsable: false,
+                children: [
+                    { title: "什么是Encoder-Decoder 和 Seq2Seq", path: "/handbook/what_is_en_decode" }
+                  ],
             }
-          ]
+        ]
     }
 }
