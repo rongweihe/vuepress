@@ -33,7 +33,7 @@ module.exports = {
             },
             {
                 title: "人工智能相关知识",
-                path: 'handbook/what_is_en_decode',
+                path: '/handbook/what_is_en_decode',
                 collapsable: false,
                 children: [
                     { title: "什么是Encoder-Decoder 和 Seq2Seq", path: "/handbook/what_is_en_decode" }
