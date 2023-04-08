@@ -2,6 +2,7 @@ module.exports = {
     title: 'ChatGPT中文导航大全',
     description: 'Just playing around',
     themeConfig: {
+        subSidebar: 'auto',
         nav: [
             { text: '首页', link: '/' },
             { 
