@@ -18,10 +18,10 @@ footer: MIT Licensed | Copyright © 2023 BY herongwei
 大家好，我是程序员贺同学 🤗，是本站的作者，最近 ChatGPT 有多🔥，想必不用多说了，建本站的初衷，是为了更好的传播和分享 ChatGPT 相关的知识，尤其是非计算机行业，互联网的读者朋友们，ChatGPT 带来的技术变革势不可挡，只有具备丰富的知识体系和独立思考的能力，我们才能在 AI 时代中勇立潮头，引领创新潮流，让我们一起跟随在 AI 的潮流，一起奋发前进。最新的热点文章都在公众号首发，别忘记关注了哦.
 - ![](https://i.328888.xyz/2023/04/08/iRmK1A.md.png)
 
-## 最新趋势
+## 👉 最新趋势
 - ![](https://i.328888.xyz/2023/04/09/iRYYsx.md.png)
 
-## ChatGPT能帮我们做什么
+## 💪 学ChatGPT能帮我们做什么
 让 ChatGPT 成为你的得力助手
 - 📚 当一个知识库/资料库/数据库来用
 - 📝 帮助我们对文本进行排版处理
@@ -62,55 +62,55 @@ footer: MIT Licensed | Copyright © 2023 BY herongwei
 
 - 发现更多提示词[点击](https://manual.toulan.fun/posts/chatgpt-your-reliable-assistant/)
 
-## 中文调教指南
+## 📚 中文调教指南
 - [共约67万个问题，欢迎来炼丹](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/blob/main/question/README.md)
 
-## 免费好用的 ChatGPT 镜像站点
+## 🚀 免费好用的 ChatGPT 镜像站点
 - [Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点](https://github.com/xx025/carrot)
 
-## AI 妙站
+## 🔥 AI 妙站
 汇集全网有趣的 AI 站点，下面这些站点也很有趣
+- [百度 文心一言🛫](https://yiyan.baidu.com/welcome)
+- [阿里 通义千问](https://tongyi.aliyun.com/])
 - [AI EDU🛫](https://chat.forchange.cn/)
 - [🔑 蜻蜓问答](https://chat.qingting.work)
-- [周报通🛫] (https://zhoubaotong.com/zh)
+- [周报通🛫](https://zhoubaotong.com/zh)
 - [Chat技术问答🛫](https://www.abab123.tk/)
-- [Chat客户端] (https://chatplus.buzz/)
-- [海豚问答] (http://zhimachat.com/)
-- [编程🛫] (https://www.aicodehelper.com/)
-- [AI帮个忙] (https://ai-toolbox.codefuture.top/)
-- [虚拟女友🛫] (https://chilloutai.com/)
-- [文字游戏🛫] (https://harry-potter.openai-lab.com)
-- [单词故事🛫] (https://wordstory.streamlit.app/)
-- [AI 如来(佛)🛫] (https://hotoke.ai/)
-- [🔑 技术文档助手🛫] (https://docsgpt.arc53.com/)
-- [AI 表格助手] (https://chatexcel.com/)
-- [🔑 AI文秘助手] (https://typeset.io/)
-- [⛔ AI B站总结] (https://b.jimmylv.cn/)
-- [BaiDu 文心一言🛫](https://yiyan.baidu.com/welcome)
-- [Ali 通义千问] (https://tongyi.aliyun.com/])
-- [AI机器人🛫] (https://vrtalk.io/)
-- [ClueAI] (https://www.cluebenchmarks.com/clueai.html)
-- [ChatGPT 应用] (https://open-gpt.app/)
-- [Chat Docs] (https://chatdoc.com/)
-- [AI Colors🛫] (https://aicolors.co/)
-- [AI 工具箱] (https://ai.free-tools.cn/)
-- [AI快速生成SQL] (https://www.sqlkiller.com/)
-- [AI代码生成] (https://www.cursor.so/)
-- [DeepL写作] (https://www.deepl.com/zh/write)
-- [智能写作] (https://heyfriday.cn/)
-- [提示词优化] (https://promptperfect.jinaai.cn/)
-- [AI正则表达式] (https://regex.ai/)
-- [GitHubCopilot] (https://github.com/features/copilot/)
-- [aiXcoder] (https://www.aixcoder.com/)
-- [CodeGeeX] (http://models.aminer.cn/)
-- [密塔写作猫] (https://xiezuocat.com/)
-- [AI文章生成器] (http://wenzhang.zhuluan.com/)
-- [ChatPPT] (http://motion.yoo-ai.com/)
+- [Chat客户端](https://chatplus.buzz/)
+- [海豚问答](http://zhimachat.com/)
+- [编程🛫](https://www.aicodehelper.com/)
+- [AI帮个忙](https://ai-toolbox.codefuture.top/)
+- [虚拟女友🛫](https://chilloutai.com/)
+- [文字游戏🛫](https://harry-potter.openai-lab.com)
+- [单词故事🛫](https://wordstory.streamlit.app/)
+- [AI 如来(佛)🛫](https://hotoke.ai/)
+- [🔑 技术文档助手🛫](https://docsgpt.arc53.com/)
+- [AI 表格助手](https://chatexcel.com/)
+- [🔑 AI文秘助手](https://typeset.io/)
+- [⛔ AI B站总结](https://b.jimmylv.cn/)
+- [AI机器人🛫](https://vrtalk.io/)
+- [ClueAI](https://www.cluebenchmarks.com/clueai.html)
+- [ChatGPT 应用](https://open-gpt.app/)
+- [Chat Docs](https://chatdoc.com/)
+- [AI Colors🛫](https://aicolors.co/)
+- [AI 工具箱](https://ai.free-tools.cn/)
+- [AI快速生成SQL](https://www.sqlkiller.com/)
+- [AI代码生成](https://www.cursor.so/)
+- [DeepL写作](https://www.deepl.com/zh/write)
+- [智能写作](https://heyfriday.cn/)
+- [提示词优化](https://promptperfect.jinaai.cn/)
+- [AI正则表达式](https://regex.ai/)
+- [GitHubCopilot](https://github.com/features/copilot/)
+- [aiXcoder](https://www.aixcoder.com/)
+- [CodeGeeX](http://models.aminer.cn/)
+- [密塔写作猫](https://xiezuocat.com/)
+- [AI文章生成器](http://wenzhang.zhuluan.com/)
+- [ChatPPT](http://motion.yoo-ai.com/)
 
-## 最新文章(持续更新中...)
+## 🔥 最新文章(持续更新中...)
 - [Generative AI / ChatGPT 生态 Mapping - Mint Ventures 赛道会分享](https://gamma.app/public/Generative-AI-ChatGPT-Mapping-Mint-Ventures--c5fveip06lk4y1j?mode=doc#card-q3bdspjgjom74wa)
 - [0 代码，十分钟搞定微信版 ChatGPT，轻松拥有个性化 AI 助手教程！](https://mp.weixin.qq.com/s/gJo5WKr4rKN5JI-K6oLz9Q)
 - [王炸！ChatGPT 真的要变天了！](https://mp.weixin.qq.com/s/MAD9KgC3JZqkayODu0IGJQ)
 
-## 🏷 鼓励作者
+## 🏷 ❤ 鼓励作者
 如果你觉得博客写得还不错，可以帮忙点个star或者打赏犒劳一下 [打赏](https://i.328888.xyz/2023/04/08/iR7Orp.md.png)
