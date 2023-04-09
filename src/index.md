@@ -70,42 +70,42 @@ footer: MIT Licensed | Copyright © 2023 BY herongwei
 
 ## AI 妙站
 汇集全网有趣的 AI 站点，下面这些站点也很有趣
-- [AI EDU🛫] https://chat.forchange.cn/
-- [🔑 蜻蜓问答] https://chat.qingting.work
-- [周报通🛫] https://zhoubaotong.com/zh
-- [Chat技术问答🛫] https://www.abab123.tk/
-- [Chat客户端] https://chatplus.buzz/
-- [海豚问答] http://zhimachat.com/
-- [编程🛫] https://www.aicodehelper.com/
-- [AI帮个忙] https://ai-toolbox.codefuture.top/
-- [虚拟女友🛫] https://chilloutai.com/
-- [文字游戏🛫] https://harry-potter.openai-lab.com
-- [单词故事🛫] https://wordstory.streamlit.app/
-- [AI 如来(佛)🛫] https://hotoke.ai/
-- [🔑 技术文档助手🛫] https://docsgpt.arc53.com/
-- [AI 表格助手] https://chatexcel.com/
-- [🔑 AI文秘助手] https://typeset.io/
-- [⛔ AI B站总结] https://b.jimmylv.cn/
-- [BaiDu 文心一言🛫] https://yiyan.baidu.com/welcome
-- [Ali 通义千问] https://tongyi.aliyun.com/]
-- [AI机器人🛫] https://vrtalk.io/
-- [ClueAI] https://www.cluebenchmarks.com/clueai.html
-- [ChatGPT 应用] https://open-gpt.app/
-- [Chat Docs] https://chatdoc.com/
-- [AI Colors🛫] https://aicolors.co/
-- [AI 工具箱] https://ai.free-tools.cn/
-- [AI快速生成SQL] https://www.sqlkiller.com/
-- [AI代码生成] https://www.cursor.so/
-- [DeepL写作] https://www.deepl.com/zh/write
-- [智能写作] https://heyfriday.cn/
-- [提示词优化] https://promptperfect.jinaai.cn/
-- [AI正则表达式] https://regex.ai/
-- [GitHubCopilot] https://github.com/features/copilot/
-- [aiXcoder] https://www.aixcoder.com/
-- [CodeGeeX] http://models.aminer.cn/
-- [密塔写作猫] https://xiezuocat.com/
-- [AI文章生成器] http://wenzhang.zhuluan.com/
-- [ChatPPT] http://motion.yoo-ai.com/
+- [AI EDU🛫](https://chat.forchange.cn/)
+- [🔑 蜻蜓问答](https://chat.qingting.work)
+- [周报通🛫] (https://zhoubaotong.com/zh)
+- [Chat技术问答🛫](https://www.abab123.tk/)
+- [Chat客户端] (https://chatplus.buzz/)
+- [海豚问答] (http://zhimachat.com/)
+- [编程🛫] (https://www.aicodehelper.com/)
+- [AI帮个忙] (https://ai-toolbox.codefuture.top/)
+- [虚拟女友🛫] (https://chilloutai.com/)
+- [文字游戏🛫] (https://harry-potter.openai-lab.com)
+- [单词故事🛫] (https://wordstory.streamlit.app/)
+- [AI 如来(佛)🛫] (https://hotoke.ai/)
+- [🔑 技术文档助手🛫] (https://docsgpt.arc53.com/)
+- [AI 表格助手] (https://chatexcel.com/)
+- [🔑 AI文秘助手] (https://typeset.io/)
+- [⛔ AI B站总结] (https://b.jimmylv.cn/)
+- [BaiDu 文心一言🛫](https://yiyan.baidu.com/welcome)
+- [Ali 通义千问] (https://tongyi.aliyun.com/])
+- [AI机器人🛫] (https://vrtalk.io/)
+- [ClueAI] (https://www.cluebenchmarks.com/clueai.html)
+- [ChatGPT 应用] (https://open-gpt.app/)
+- [Chat Docs] (https://chatdoc.com/)
+- [AI Colors🛫] (https://aicolors.co/)
+- [AI 工具箱] (https://ai.free-tools.cn/)
+- [AI快速生成SQL] (https://www.sqlkiller.com/)
+- [AI代码生成] (https://www.cursor.so/)
+- [DeepL写作] (https://www.deepl.com/zh/write)
+- [智能写作] (https://heyfriday.cn/)
+- [提示词优化] (https://promptperfect.jinaai.cn/)
+- [AI正则表达式] (https://regex.ai/)
+- [GitHubCopilot] (https://github.com/features/copilot/)
+- [aiXcoder] (https://www.aixcoder.com/)
+- [CodeGeeX] (http://models.aminer.cn/)
+- [密塔写作猫] (https://xiezuocat.com/)
+- [AI文章生成器] (http://wenzhang.zhuluan.com/)
+- [ChatPPT] (http://motion.yoo-ai.com/)
 
 ## 最新文章(持续更新中...)
 - [Generative AI / ChatGPT 生态 Mapping - Mint Ventures 赛道会分享](https://gamma.app/public/Generative-AI-ChatGPT-Mapping-Mint-Ventures--c5fveip06lk4y1j?mode=doc#card-q3bdspjgjom74wa)
