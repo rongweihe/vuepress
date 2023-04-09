@@ -12,7 +12,7 @@ module.exports = {
                 items: [
                     { text: 'Github', link: 'https://github.com/rongweihe' },
                     { text: '知乎', link: 'https://zhihu.com/people/herongwei' },
-                    { text: '联系方式', link: 'https://i.328888.xyz/2023/04/09/iciz4J.md.jpeg' }
+                    { text: 'ChatGPT探索星球', link: 'https://t.zsxq.com/0ck9C0jIL' }
                 ]
             }
         ],
@@ -39,16 +39,23 @@ module.exports = {
                 path: '/handbook/what_is_en_decode',
                 collapsable: false,
                 children: [
-                    { title: "什么是Encoder-Decoder 和 Seq2Seq", path: "/handbook/what_is_en_decode" },
-                    { title: "Encoder-Decoder 有哪些应用？以及缺陷是什么？", path: "/handbook/how_en_decode_show" }
+                    { title: "什么是Encoder-Decoder 和 Seq2Seq", path: "/handbook/what_is_en_decode" }
+                  ],
+            },
+            {
+                title: "有趣圈子",
+                path: '/handbook/read03',
+                collapsable: false,
+                children: [
+                    { title: "好玩的圈子", path: "/handbook/read03" }
                   ],
             },
             {
                 title: "持续更新中...",
-                path: '/handbook/read05',
+                path: '/handbook/read04',
                 collapsable: false,
                 children: [
-                    { title: "持续更新中", path: "/handbook/read05" }
+                    { title: "持续更新中", path: "/handbook/read04" }
                   ],
             }
         ]
