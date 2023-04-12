@@ -40,7 +40,8 @@ module.exports = {
                 collapsable: false,
                 children: [
                     { title: "什么是Encoder-Decoder 和 Seq2Seq", path: "/handbook/what_is_en_decode" },
-                    { title: "Encoder-Decoder 有哪些应用？以及缺陷是什么？", path: "/handbook/how_en_decode_show" }
+                    { title: "Encoder-Decoder 有哪些应用？以及缺陷是什么？", path: "/handbook/how_en_decode_show" },
+                    { title: "训练集、验证集、测试集（附：分割方法+交叉验证）", path: "/handbook/data_train_valid_test"}
                   ],
             },
             {
