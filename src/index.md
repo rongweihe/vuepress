@@ -113,5 +113,9 @@ footer: MIT Licensed | Copyright © 2023 BY herongwei
 - [0 代码，十分钟搞定微信版 ChatGPT，轻松拥有个性化 AI 助手教程！](https://mp.weixin.qq.com/s/gJo5WKr4rKN5JI-K6oLz9Q)
 - [王炸！ChatGPT 真的要变天了！](https://mp.weixin.qq.com/s/MAD9KgC3JZqkayODu0IGJQ)
 
+## ❤️广告位❤️
+- [ChatGPT 基地](https://t.zsxq.com/0dJHOBP1C)
+- [ChatGPT AI 赋能商业 ，早就是优势](https://t.zsxq.com/0d4mkx1Jp)
+
 ## 🏷 ❤ 鼓励作者
 如果你觉得博客写得还不错，可以帮忙点个star或者打赏犒劳一下 [打赏](https://i.328888.xyz/2023/04/08/iR7Orp.md.png)
