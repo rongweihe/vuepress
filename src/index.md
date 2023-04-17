@@ -19,7 +19,23 @@ footer: MIT Licensed | Copyright © 2023 BY herongwei
 - ![](https://i.328888.xyz/2023/04/08/iRmK1A.md.png)
 
 ## 👉 最新趋势
-- ![](https://i.328888.xyz/2023/04/09/iRYYsx.md.png)
+以下是一些最新的、国内外优秀的与 ChatGPT 相关的资讯栏目、科技论坛、网站、订阅号以及知名的开源项目：
+
+- [ChatGPT官网](https://chat.openai.com/chat) - 这是 OpenAI 官方博客，其中包括了多篇有关 GPT 系列模型的文章。
+
+- [Chatbots Life](https://chatbotslife.com/) - 这是一个聚焦于聊天机器人和 AI 聊天系统的社区，其中也包括了一些与 ChatGPT 相关的文章。
+
+- [GitHub GPT-3](https://github.com/elyase/awesome-gpt3) - 这是一个由社区维护的关于 GPT-3 的资源列表，其中也包括了一些与 ChatGPT 相关的开源项目。
+
+- [Chatbots Weekly Newsletter](https://www.chatbotsweekly.com/) - 这是一个定期发布聊天机器人和 AI 聊天系统相关文章的邮件订阅服务。
+
+- [Chatbot Magazine](https://chatbotsmagazine.com/) - 这是一个聚焦于聊天机器人和人工智能聊天系统的杂志，其中也包括了一些与 ChatGPT 相关的文章。
+
+- [GPT-3 Sandbox](https://beta.openai.com/signup/)- 这是 OpenAI 官方提供的一个在线的 GPT-3 大规模预训练语言模型的调试平台，用户可以在此进行交互式体验和测试。
+
+- [Hugging Face Transformers](https://github.com/huggingface/transformers) - 这是一个由 Hugging Face 公司维护的 PyTorch 和 TensorFlow 训练和使用各种自然语言处理模型的开源库，其中也包括了 GPT 系列模型的实现。
+
+希望这些信息能够帮到你，如有需要你可以进一步了解这些资源，并选择适合自己的阅读和实践。
 
 ## 📚 中文调教指南
 - [共约67万个问题，欢迎来炼丹](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/blob/main/question/README.md)
